@@ -1,0 +1,23 @@
+#logohtml {
+    width: 50px;
+}
+
+#logocss {
+    width: 60px;
+}
+
+#logojs {
+    width: 60px;
+}
+
+#logoangular {
+    width: 65px;
+}
+
+#logotypescript {
+    width: 60px;
+}
+
+.container {
+    align-items: center;
+}
